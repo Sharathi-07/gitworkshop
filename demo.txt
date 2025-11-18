@@ -1,4 +1,4 @@
-copying elemnts of one array to another array:
+copying elementss of one array to another array:
 #include <stdio.h>
 void main()
 {
